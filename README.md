@@ -74,3 +74,13 @@ Pertemuan 2 :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10262e5b-fee2-4302-b507-d4aa1a2820ed" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b80d1baf-7b55-4418-ae09-bf1dc2e9d778" />
 
+Pertemuan 3 :
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/076129ed-1483-4f7e-b7bb-f948407eed28" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0979bbd7-67c4-4df1-b53c-3e83343aad57" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53d9047c-91c3-4730-bd1b-0df82f21e9df" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43bbeaf1-abe3-462b-8d4f-5f36e086b05b" />
+Database : 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b82d9797-fc2f-4bb3-be9d-0e52653bda5e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77cc9dd2-99c3-45ad-ab55-475468d952c4" />
+
+
